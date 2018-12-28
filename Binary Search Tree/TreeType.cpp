@@ -2,6 +2,7 @@
  * File : TreeType.cpp
  * Date : 10/10/08
  * Description : Impelementation file of TreeType class
+ * By Professor Li
  ********************************************************/
 
 #include "TreeType.h"
